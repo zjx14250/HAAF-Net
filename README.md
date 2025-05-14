@@ -3,15 +3,9 @@
 <hr/>
 
 # HAAF-Net
-The Pytorch implementation of the our paper of HAAF-Net.
+The Pytorch implementation of the paper of HAAF-Net.
 
-```html
-<div style="text-align: center;">
-  <img src="Fig/overall.png" alt="系统架构图" style="width: 100%; height: auto;"/>
-</div>
-```
-
-![overall](./Fig/overall.png)
+![overall](./Fig/overall.jpg)
 
 <hr/>
 
