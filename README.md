@@ -5,7 +5,7 @@
 # HAAF-Net
 The Pytorch implementation of the our paper of HAAF-Net.
 
-![1dd23ade9e5fa34aa371509d903c241](E:\WeChatFiles\WeChat Files\wxid_ss1s9kojy0h521\FileStorage\Temp\1dd23ade9e5fa34aa371509d903c241.png)
+![overall](./Fig/overall.png)
 
 <hr/>
 
